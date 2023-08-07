@@ -23,7 +23,7 @@ Apaixonado por tecnologia e principalmente por QA.
 
 
 
-![Snake animation](https://github.com/fernandovas/fernandovas/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fernandovas/fernandovas/blob/output/github-contribution-grid-snake.gif)
 
 
 
